@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="de.hft_stuttgart.ip1.MandelbrotMainFrame">
+  <scrollpane id="f1882" binding="scrollPane">
+    <constraints>
+      <xy x="48" y="54" width="436" height="410"/>
+    </constraints>
+    <properties>
+      <preferredSize width="303" height="203"/>
+      <verticalScrollBarPolicy value="20"/>
+    </properties>
+    <border type="none"/>
+    <children/>
+  </scrollpane>
+</form>
